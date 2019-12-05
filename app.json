@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "CS 47 Final Project",
-    "slug": "finalProject",
+    "name": "Demo",
+    "slug": "Lecture7A-Starter",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
